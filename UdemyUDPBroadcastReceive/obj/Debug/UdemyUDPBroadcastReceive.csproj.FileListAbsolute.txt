@@ -1,0 +1,7 @@
+D:\HK6\Lập trình mạng\For_Socket\UDP\UdemyUDPBroadcastReceive\bin\Debug\UdemyUDPBroadcastReceive.exe.config
+D:\HK6\Lập trình mạng\For_Socket\UDP\UdemyUDPBroadcastReceive\bin\Debug\UdemyUDPBroadcastReceive.exe
+D:\HK6\Lập trình mạng\For_Socket\UDP\UdemyUDPBroadcastReceive\bin\Debug\UdemyUDPBroadcastReceive.pdb
+D:\HK6\Lập trình mạng\For_Socket\UDP\UdemyUDPBroadcastReceive\obj\Debug\UdemyUDPBroadcastReceive.csproj.AssemblyReference.cache
+D:\HK6\Lập trình mạng\For_Socket\UDP\UdemyUDPBroadcastReceive\obj\Debug\UdemyUDPBroadcastReceive.csproj.CoreCompileInputs.cache
+D:\HK6\Lập trình mạng\For_Socket\UDP\UdemyUDPBroadcastReceive\obj\Debug\UdemyUDPBroadcastReceive.exe
+D:\HK6\Lập trình mạng\For_Socket\UDP\UdemyUDPBroadcastReceive\obj\Debug\UdemyUDPBroadcastReceive.pdb
